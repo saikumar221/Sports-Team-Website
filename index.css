@@ -1,0 +1,29 @@
+body{
+    background-color:black ;
+}
+.display-4,h1{
+    font-family: 'Permanent Marker', cursive;
+    color: #fc6f03;
+}
+#about{
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+}
+p::selection{
+    background-color: rgba(83, 81, 81, 0.288);
+    color:#fc6f03;
+}
+@media (max-width: 768px) {
+    #about{
+        text-align: left;
+        text-align: justify;
+        font-size: small;
+    }   
+}
+
+@media (min-width: 768px) {
+    p img:hover{
+            transform: scale(1.05);;
+    }
+}
