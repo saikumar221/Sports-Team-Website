@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+
+.rr, .mi, .kkr, .kxip, .dc, .csk, .rcb {
+  margin: 10px;
+  font-family: Cambria, Cochin;
+  background-color: gray;
+  font-size: 20px;
+}
+
+.card-title {
+  font-size: 30px;
+}
+
+.card img {
+  height: 300px;
+  width: auto;
+}
+
+.rcb {
+  color: brown;
+}
+
+.csk {
+  color: yellow;
+}
+
+.dc {
+  color: white;
+}
+
+.kxip {
+  color: #f52552;
+}
+
+.kkr {
+  color: violet;
+}
+
+.mi {
+  color: #5050ad;
+}
+
+.rr {
+  color: gold;
+}
+
+/*# sourceMappingURL=otherteams.css.map */

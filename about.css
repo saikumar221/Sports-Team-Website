@@ -1,0 +1,24 @@
+li > ul, .card p {
+  font-size: medium;
+}
+
+.card {
+  background-color: #f8f6f6;
+}
+li > ul {
+  color: #fc6f03;
+  list-style-type: circle;
+}
+
+.btn:hover {
+  color: #fc6f03;
+}
+
+@media (max-width: 768px) {
+  .card p {
+    font-size: small;
+    text-align: left justify;
+  }
+}
+
+/*# sourceMappingURL=about.css.map */
