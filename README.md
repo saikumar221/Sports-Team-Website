@@ -1,6 +1,7 @@
 # Project0
 
 This website is a submission for Project0 of Harvad-CS50's Web Programming with Python and JavaScript.
+https://saikumar221.github.io/Sports-Team-Website/index.html
 
 The website consits of 5 Pages Index.html(home), About.html, Squad.html, Archive.html and Otherteams.html.
 A Navigation Bar on top of all pages makes it possible to naviagte to any page at any point of time.
