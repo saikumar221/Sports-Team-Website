@@ -1,0 +1,30 @@
+$tcolor: #fc6f03;
+$bgcolor: rgb(248, 246, 246);
+
+%fontsize{
+    font-size: medium;
+}
+
+.card{
+    background-color:$bgcolor;
+    p{
+        @extend %fontsize;
+    }
+}
+li>ul {
+    @extend %fontsize;
+    color: $tcolor;
+    list-style-type: circle;
+  }
+  .btn:hover{
+    color: $tcolor;
+}
+
+@media (max-width: 768px) { 
+   .card p{
+        font-size: small;
+        text-align: left justify;
+    }
+    
+}
+

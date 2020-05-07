@@ -1,0 +1,32 @@
+.content{
+    background-color: black;
+}
+  .card{
+    background-color: rgb(37, 37, 37);
+    color: white;
+  }
+  .card:hover{
+    background-color: white;
+    color: black;
+  }
+  h5 img,p img{
+      width: 20px;
+      height: 20px;
+  }
+  .ball{
+      content: url("https://pluspng.com/img-png/cricket-ball-png-cricket-ball-200.png");
+  }
+  .bat{
+      content: url("https://image.flaticon.com/icons/png/512/1454/1454437.png");
+  }
+  .icon{
+      content: url("https://lh3.googleusercontent.com/proxy/Q5R6oe_0RK7qKVtnnN8qg-OmB-aIfSWqOA5TYZ79YVBOERrmJKusRzKHummxWOY7EksIlQ6Igu6347ZETRDNqGkoDaZXi3QMAaNO-Mz-xCT0fc2X_ZiV_QmDcg-4TRAdR2g2sMPanM5iHHuOHQHaNYzh");
+  }
+  .icon{
+      size:10px;
+  }
+
+  .display-4{
+    font-family: 'Permanent Marker', cursive;
+    color: #fc6f03;
+}
