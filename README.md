@@ -1,6 +1,6 @@
 # Project0
 
-This website is a submission for Project0 of Harvad-CS50's Web Programming with Python and JavaScript.
+This website is a submission for Project0 of Harvard-CS50's Web Programming with Python and JavaScript.
 https://saikumar221.github.io/Sports-Team-Website/index.html
 
 The website consits of 5 Pages Index.html(home), About.html, Squad.html, Archive.html and Otherteams.html.
